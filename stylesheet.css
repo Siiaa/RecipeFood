@@ -1,0 +1,59 @@
+{	margin: 0;
+	padding: 0;
+}
+
+header {background-image: url(../background.jpg);
+	height:80vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{	float: right;
+	list-style-type: none;}
+ul li{
+	display: inline-block;
+	top: 100%;
+	left: 200%;}
+
+ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	}
+ul li a:hover{
+	background-color: #fff;
+	color: skyblue;
+}
+.fb {
+	position: absolute;
+	top: 95%;
+	left: 35%;
+	transform: translate(-220%, -50%)}
+.fb h1{
+	color: black;
+	font-size: 11px;}
+.ig {
+	position: absolute;
+	top: 95%;
+	left: 60%;
+	transform: translate(-220%, -50%)}
+.ig h1{
+	color: black;
+	font-size: 11px;}
+.gmail {
+	position: absolute;
+	top: 95%;
+	left: 95%;
+	transform: translate(-220%, -50%)}
+.gmail h1{
+	color: black;
+	font-size: 11px;}
+.search{
+	position: absolute;
+	top: 20%;
+	left: 33%;
+	transform: translate(-50%, -50%)}
+.search h2{
+	font-size: 15px;
+}
