@@ -1,5 +1,5 @@
 <?php
 
-include_once("HOMEPAGE.html");
+include_once("HomePagee.html");
 
 ?>
